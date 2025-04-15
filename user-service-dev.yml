@@ -11,3 +11,6 @@ spring:
 logging:
   level:
     com.myfirst.microservice: DEBUG
+    
+custom:
+  message: Hello from Cloud Config!    
