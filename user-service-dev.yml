@@ -1,16 +1,2 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/user-service
-    username: myFirstMicroService
-    password: 
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-
-logging:
-  level:
-    com.myfirst.microservice: DEBUG
-    
 custom:
   message: Hello from Cloud Config!    
