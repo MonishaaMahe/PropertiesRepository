@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/myFirstMicroService
+    url: jdbc:postgresql://localhost:5432/user-service
     username: myFirstMicroService
     password: 
   jpa:
