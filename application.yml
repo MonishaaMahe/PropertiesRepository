@@ -8,6 +8,4 @@ logging:
   level:
     root: INFO
 
-spring:
-  profiles:
-    active: dev
+
